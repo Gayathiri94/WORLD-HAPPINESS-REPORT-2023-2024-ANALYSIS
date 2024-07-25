@@ -3,7 +3,7 @@ The World Happiness Report is a landmark survey of the state of global happiness
 In this project, I analyze the world's happiness data from a dataset retrieved from Kaggle using important concepts of SQL like Aggregate functions, join, group by, sub-query, CTEs, window function
 The dataset comprises of information on world happiness data from different countries during periods of 2024 and 2023. 
 
-## QUESTIONS TO ANALYISE:
+## QUESTIONS TO ANALYSE:
 
 #### INDIVIDUAL COUNTRY WISE ANALYSIS
 1.	NUMBER OF COUNTRIES CONSIDERED
